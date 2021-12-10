@@ -21,7 +21,7 @@ Le iPhone 4 était un tout nouveau téléphone de l'intérieur avec la fonction 
 
 ![iphone5](media/iphone5.jpg)
 
-Le iPhone 5 avait un écran de 4 pouces 640 x 1,136 pixels
+Le iPhone 5 avait un écran de 4 pouces 640 x 1,136 pixels 
 
 ## Le iPhone 6
 
@@ -49,3 +49,12 @@ Le iPhone X avait 2 caméras, une de 12 mégapixels et une autre pour le zoom de
 
 ## Le iPhone 11
 
+![iphone11](media/iphone11.jpg)
+
+Le iPhone 11 avait 2 caméras de 12 mégapixels avec une nouvelle fonction pour chaque caméra ce qui était le wide et le ultra wide qui pouvait aller jusqu'à une angle de vue de 120°.
+
+## Le iPhone 11 Pro/Pro Max
+
+![iphone11pro](media/iphone11pro.jpg)
+
+Le premier modèle de iPhone à avoir 3 caméras de 12 mégapixels avec plusieurs nouvelles fonctions comme le mode portrait qui pouvait controller la profondeur des photos prises.
